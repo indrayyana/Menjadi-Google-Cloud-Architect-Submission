@@ -19,3 +19,5 @@ Build dan Push Docker Image
 docker build -t asia-southeast2-docker.pkg.dev/${GOOGLE_CLOUD_PROJECT}/backend/notes-app:latest .
 docker push asia-southeast2-docker.pkg.dev/${GOOGLE_CLOUD_PROJECT}/backend/notes-app:latest
 ```
+
+Lanjut Deploy ke Google Kubernetes Engine dengan Cloud Console 🗿
