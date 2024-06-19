@@ -3,9 +3,9 @@
 # submission 1 : 
 Menjalankan Dockerfile di cloud shell
 ```cmd
-docker build -t nodeapp:0.1 .
+docker build -t testapp:0.1 .
 docker images
-docker run -p 4000:8000 --name my-node-app nodeapp:0.1 # (8000 port expose app di Docker -> mapping ke 4000)
+docker run -p 4000:8000 --name my-test-app testapp:0.1 # (8000 port expose app di Docker -> mapping ke 4000)
 ```
 
 Buat Artifact Registry dan Autentikasi dengan Artifact Registry
