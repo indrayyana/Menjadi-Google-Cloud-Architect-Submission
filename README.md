@@ -21,3 +21,25 @@ docker push asia-southeast2-docker.pkg.dev/${GOOGLE_CLOUD_PROJECT}/backend/notes
 ```
 
 Lanjut Deploy ke Google Kubernetes Engine dengan Cloud Console 🗿
+
+# submission 2 (proyek akhir) : 
+### Kriteria 1: Membuat Diagram Rancangan Arsitektur Cloud
+<img src="https://github.com/indrayyana/Menjadi-Google-Cloud-Architect-Submission/blob/main/img/kriteria%201.png">
+
+### Kriteria 2 & 3 `(private) 🗿`
+
+### Kriteria 4: Membuat Custom Dashboard untuk Pemantauan
+<img src="https://github.com/indrayyana/Menjadi-Google-Cloud-Architect-Submission/blob/main/img/kriteria%204.1.jpeg">
+<img src="https://github.com/indrayyana/Menjadi-Google-Cloud-Architect-Submission/blob/main/img/kriteria%204.2.jpeg">
+
+### Kriteria 5: Memberi Hak Akses ke Auditor Eksternal
+Beri hak akses ke Reviewer Dicoding dengan menggunakan Cloud IAM & Admin
+
+### Kriteria 6: Menghitung Biaya Arsitektur Cloud
+<img src="https://github.com/indrayyana/Menjadi-Google-Cloud-Architect-Submission/blob/main/img/kriteria%206.1.jpeg">
+<img src="https://github.com/indrayyana/Menjadi-Google-Cloud-Architect-Submission/blob/main/img/kriteria%206.2.jpeg">
+<img src="https://github.com/indrayyana/Menjadi-Google-Cloud-Architect-Submission/blob/main/img/kriteria%206.3.jpeg">
+
+
+
+
